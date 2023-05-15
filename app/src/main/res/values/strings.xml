@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Quiz</string>
+    <string name="question_textview">Question</string>
+    <string name="option_textview">Option %d</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="out_of_attempts">Out of attempts!</string>
+    <string name="score">Score: %d/%d</string>
+    <string name="play_again">Play Again</string>
+    <string name="question_template">Question: %s</string>
+    <string name="correct_answer_message">Верно!</string>
+    <string name="incorrect_answer_message">Ууууупс, ты ошибся(</string>
+</resources>
